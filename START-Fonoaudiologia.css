@@ -1016,6 +1016,7 @@
   height: 230px;
   width: 260px;
   margin: 0 auto;
+  object-fit: contain;
 }
 
 .u-section-6 .u-text-2 {
@@ -1050,6 +1051,7 @@
   width: 260px;
   height: 230px;
   margin: 0 auto;
+  object-fit: contain;
 }
 
 .u-section-6 .u-text-4 {
@@ -1072,6 +1074,7 @@
   width: 260px;
   height: 230px;
   margin: 0 auto;
+  object-fit: contain;
 }
 
 .u-section-6 .u-text-6 {
@@ -1094,6 +1097,7 @@
   width: 260px;
   height: 231px;
   margin: 0 auto;
+  object-fit: contain;
 }
 
 .u-section-6 .u-text-8 {
